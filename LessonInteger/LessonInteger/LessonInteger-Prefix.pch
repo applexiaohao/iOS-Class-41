@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'LessonInteger' target in the 'LessonInteger' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
